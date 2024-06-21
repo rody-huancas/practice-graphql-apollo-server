@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "Rody Huancas",
+      "phone": "907979796",
+      "street": "La victoria",
+      "city": "Chiclayo",
+      "id": "ee022533-a3ea-4965-81ec-5c2396dc2d73"
+    },
+    {
+      "name": "Ana",
+      "phone": "",
+      "street": "Avenida Principal",
+      "city": "Lima",
+      "id": "d2f3f158-1f70-4c98-b8c2-0a02bb7d58b7"
+    },
+    {
+      "name": "Juan",
+      "phone": "999888777",
+      "street": "Calle Central",
+      "city": "Arequipa",
+      "id": "c8b43e0a-83fc-4d0c-aab5-05c8e0c3d23b"
+    }
+  ]
+}
