@@ -16,3 +16,17 @@ npx nodemon index.js
 ```
 pnpm run json-server
 ```
+
+## install react-graphql dependencies
+```
+cd react-graphql
+```
+
+```
+pnpm install
+```
+
+## Execute frontend:
+```
+pnpm run dev
+```
