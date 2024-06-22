@@ -1,5 +1,9 @@
 ## install graphql-server dependencies
 ```
+cd graphql-server
+```
+
+```
 pnpm install
 ```
 
